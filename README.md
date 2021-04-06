@@ -1,6 +1,7 @@
 # Philippines COVID in a Year
 
 This repository contains news tweets starting from January 1, 2020 to March 12, 2021 from top news providers in the Philippines.
+
 The objective of the data extracted using snsscrape is to analyze the state of the Philippines and its priorities throughout its year of being in a lockdown.
 
 Feel free to use the data gathered for other purposes if possible.
